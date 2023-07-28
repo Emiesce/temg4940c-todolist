@@ -1,8 +1,7 @@
 {
-  "homepage": "https://Emiesce.github.io/temg4940c-todolist/",
+  "homepage": "https://Emiesce.github.io/",
   "name": "temg4940c-todolist",
-  "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
   "scripts": {
     "predeploy": "npm run build",
